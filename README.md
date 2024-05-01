@@ -1,13 +1,15 @@
 # AplayerForNavidrome
 **中文** | [English](https://github.com/maytom2016/AplayerForNavidrome/blob/main/EN_README.md)
-## 自定义样式预览
+
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/maytom2016/AplayerForNavidrome/blob/master/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/maytom2016/AplayerForNavidrome?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/maytom2016/AplayerForNavidrome.svg?style=flat-square&label=Forks&logo=github)
 
+## 提醒
+AplayerForNavidrome.js要引用在aplayer前，否则可能出现无法控制歌词显示隐藏。
 
 ## 使用方法 
-AplayerForNavidrome.js要引用在aplayer前，否则可能出现无法控制歌词显示隐藏。
+
 
 ### 一、引入 AplayerForNavidrome.js
 ```

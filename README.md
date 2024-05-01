@@ -7,14 +7,17 @@
 
 
 ## 使用方法 
-### 一、引用Aplayer
+AplayerForNavidrome.js要引用在aplayer前，否则可能出现无法控制歌词显示隐藏。
+
+### 一、引入 AplayerForNavidrome.js
+```
+<script src="http://fastly.jsdelivr.net/gh/maytom2016/AplayerForNavidrome@v1.0/min/aplayerfornavidrome.min.js" defer></script>
+```
+
+### 二、引用Aplayer
 ```
 <link rel="stylesheet" href="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css">
 <script src="https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js"></script>
-```
-### 二、引入 AplayerForNavidrome.js
-```
-<script src="http://fastly.jsdelivr.net/gh/maytom2016/AplayerForNavidrome@v1.0/min/aplayerfornavidrome.min.js" defer></script>
 ```
 ### 三、配置服务器参数
 ```

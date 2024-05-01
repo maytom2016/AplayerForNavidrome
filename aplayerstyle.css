@@ -1,21 +1,21 @@
-/*ÁĞ±í¿ò*/
+/*åˆ—è¡¨æ¡†*/
 .aplayer.aplayer-fixed {
   background: rgba(167, 232, 175, 0.6) !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.07), 0 1px 5px 0 rgba(0, 0, 0, 0.1);
 }
-/* Ô²½Ç */
+/* åœ†è§’ */
 .aplayer.aplayer-fixed .aplayer-list {
   border-radius: 10px 10px 0 0 !important;
 }
 
-/*Ö÷Ìå*/
+/*ä¸»ä½“*/
 .aplayer.aplayer.aplayer-fixed .aplayer-body {
   background: rgba(167, 232, 175, 0.6) !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.07), 0 1px 5px 0 rgba(0, 0, 0, 0.1);
   position: fixed;
 }
 
-/* ¹ö¶¯Ìõ */
+/* æ»šåŠ¨æ¡ */
 .aplayer .aplayer-list ol::-webkit-scrollbar {
   width: 15px;
 }
